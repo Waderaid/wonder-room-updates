@@ -1,7 +1,1 @@
-{
-  "apkUrl": "https://files.catbox.moe/zaeg6n.apk",
-  "releaseNotes": "Built-in auto-updater: Wonder Room now checks for updates at startup and from the new UPDATE button on the hub. Downloads show live progress, every file is SHA-256 verified before install is offered, and the system installer always asks you to confirm on-headset.",
-  "sha256": "a1f147596297ca022b3ec5fe02abca6709c55fb7e1f53574b399ceb830a7d201",
-  "versionCode": 4,
-  "versionName": "3.1"
-}
+{"apkUrl":"https://files.catbox.moe/w9n30e.apk","releaseNotes":"Rename release: the app is now labeled \"Wonder Room MUSE iPhone\" on the Quest home screen. Version 4.1, code 6. No other changes.","sha256":"f9e73dc37082e5b17f165b49c467efd4b9ea34d3fdab1a8aa855c96395589ea0","versionCode":6,"versionName":"4.1"}
